@@ -845,19 +845,19 @@
       "dev": true
     },
     "jasmine": {
-      "version": "3.6.3",
-      "resolved": "https://registry.npmjs.org/jasmine/-/jasmine-3.6.3.tgz",
-      "integrity": "sha512-Th91zHsbsALWjDUIiU5d/W5zaYQsZFMPTdeNmi8GivZPmAaUAK8MblSG3yQI4VMGC/abF2us7ex60NH1AAIMTA==",
+      "version": "4.5.0",
+      "resolved": "https://registry.npmjs.org/jasmine/-/jasmine-4.5.0.tgz",
+      "integrity": "sha512-9olGRvNZyADIwYL9XBNBst5BTU/YaePzuddK+YRslc7rI9MdTIE4r3xaBKbv2GEmzYYUfMOdTR8/i6JfLZaxSQ==",
       "dev": true,
       "requires": {
         "glob": "^7.1.6",
-        "jasmine-core": "~3.6.0"
+        "jasmine-core": "^4.5.0"
       }
     },
     "jasmine-core": {
-      "version": "3.6.0",
-      "resolved": "https://registry.npmjs.org/jasmine-core/-/jasmine-core-3.6.0.tgz",
-      "integrity": "sha512-8uQYa7zJN8hq9z+g8z1bqCfdC8eoDAeVnM5sfqs7KHv9/ifoJ500m018fpFc7RDaO6SWCLCXwo/wPSNcdYTgcw==",
+      "version": "4.5.0",
+      "resolved": "https://registry.npmjs.org/jasmine-core/-/jasmine-core-4.5.0.tgz",
+      "integrity": "sha512-9PMzyvhtocxb3aXJVOPqBDswdgyAeSB81QnLop4npOpbqnheaTEwPc9ZloQeVswugPManznQBjD8kWDTjlnHuw==",
       "dev": true
     },
     "js-tokens": {
