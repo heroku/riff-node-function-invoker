@@ -471,9 +471,9 @@
       }
     },
     "eslint-config-prettier": {
-      "version": "7.1.0",
-      "resolved": "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-7.1.0.tgz",
-      "integrity": "sha512-9sm5/PxaFG7qNJvJzTROMM1Bk1ozXVTKI0buKOyb0Bsr1hrwi0H/TzxF/COtf1uxikIK8SwhX7K6zg78jAzbeA==",
+      "version": "8.10.0",
+      "resolved": "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-8.10.0.tgz",
+      "integrity": "sha512-SM8AMJdeQqRYT9O9zguiruQZaN7+z+E4eAP9oiLNGKMtomwaB1E9dcgUD6ZAn/eQAb52USbvezbiljfZUhbJcg==",
       "dev": true
     },
     "eslint-plugin-jasmine": {
